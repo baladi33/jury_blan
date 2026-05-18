@@ -292,7 +292,6 @@ jupyter notebook
 ---
 
 # 👨‍💻 Auteur
-zoubair baladi
-**Soubir Belhadi**  
+**Zoubair Baladi**  
 Master en Systèmes & Télécommunications  
 Passionné par la Data Analysis, Power BI et le Data Engineering.
